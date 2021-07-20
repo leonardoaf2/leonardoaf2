@@ -14,5 +14,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-affonso-503777215/)](https://www.linkedin.com/in/leonardo-affonso-503777215/) 
 [![hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=blue&link=mailto:leeo.affonso@hotmail.com)](mailto:leeo.affonso@hotmail.com)
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leonardoaf2/leonardoaf2/blob/output/github-contribution-grid-snake.svg)
  
